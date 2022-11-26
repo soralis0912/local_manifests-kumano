@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="Sony-Xperia5-development"
-          fetch="https://github.com/orgs/Sony-Xperia5-development"
+          fetch="https://github.com/Sony-Xperia5-development"
           revision="lineage-19.1"
            />
 
