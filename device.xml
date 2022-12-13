@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="Sony-Xperia5-development"
-          fetch="https://github.com/Sony-Xperia5-development"
+  <remote name="sony-kumano-development"
+          fetch="https://github.com/sony-kumano-development"
           revision="lineage-19.1"
            />
 
-  <project path="device/sony/bahamut" name="android_device_sony_bahamut" remote="Sony-Xperia5-development"  />
-  <project path="kernel/sony/sm8150" name="android_kernel_sony_sm8150" remote="Sony-Xperia5-development"  />
+  <project path="device/sony/bahamut" name="android_device_sony_bahamut" remote="sony-kumano-development"  />
+  <project path="kernel/sony/sm8150" name="android_kernel_sony_sm8150" remote="sony-kumano-development"  />
 
 
 </manifest>
