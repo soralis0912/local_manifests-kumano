@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="sony-kumano-development" fetch="https://github.com/sony-kumano-development" revision="lineage-19.1" />
+  <remote name="sony-kumano-development" fetch="https://github.com/sony-kumano-development" revision="lineage-20" />
 
   <project path="device/sony/bahamut" name="android_device_sony_bahamut" remote="sony-kumano-development"  />
   <project path="device/sony/griffin" name="android_device_sony_griffin" remote="sony-kumano-development"  />
