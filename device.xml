@@ -3,7 +3,7 @@
  
     <remote name="skd"
         fetch="https://github.com/sony-kumano-development"
-        revision="lineage-20" />
+        revision="lineage-21" />
 
   <project path="device/sony/bahamut" name="android_device_sony_bahamut" remote="skd"  />
   <project path="device/sony/griffin" name="android_device_sony_griffin" remote="skd"  />
