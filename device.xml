@@ -9,5 +9,8 @@
   <project path="device/sony/griffin" name="android_device_sony_griffin" remote="skd"  />
   <project path="device/sony/sm8150-common" name="android_device_sony_sm8150-common" remote="skd"  />
   <project path="kernel/sony/sm8150" name="android_kernel_sony_sm8150" remote="skd"  />
-
+  <project path="vendor/sony/bahamut" name="android_vendor_sony_bahamut" remote="skd"  />
+  <project path="vendor/sony/griffin" name="android_vendor_sony_griffin" remote="skd"  />
+  <project path="vendor/sony/sm8150-common" name="android_vendor_sony_sm8150-common" remote="skd"  />
+  
 </manifest>
